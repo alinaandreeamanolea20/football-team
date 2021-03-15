@@ -6,7 +6,7 @@
 # defenders: communication, tackling, heading, passing, concentration, stamina, strength
 # midfielders: players: tackling, dribbling, heading, passing, stamina, strength
 # strikers: dribbling, finishing, heading, passing, composure, stamina, strength, concentration
-# create 3 teams of players, one with good players, one with medium players & one with weak players
+# create 3 teams of players, one with good players, one with medium players and one with weak players
 
 from abc import ABC, abstractmethod
 import random
